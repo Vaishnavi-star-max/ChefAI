@@ -124,4 +124,3 @@ ChefAI uses RAG (Retrieval-Augmented Generation) to give better answers:
   * YouTube Data API – cooking videos
   * Replicate / Stability – dish image generation
 
----
