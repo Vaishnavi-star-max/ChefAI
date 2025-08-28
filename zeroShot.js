@@ -14,7 +14,7 @@ async function chefAI() {
 
   const result = await model.generateContent(prompt);
 
-  console.log("🍽️ ChefAI Suggestion:");
+  console.log("ChefAI Suggestion:");
   console.log(result.response.text());
 }
 
